@@ -1,7 +1,7 @@
 ---
 title: About
 menu: main
-draft: true
+draft: false
 ---
 Hi! My name is Momina Abid, and I recently graduated from Lahore University of Management Sciences, majoring in Economics & Politics, and minoring in Psychology.
 
