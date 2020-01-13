@@ -1,20 +1,33 @@
 ---
 title: About
-date: 2019-07-09
 menu: main
+draft: true
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+Hi! My name is Momina Abid, and I recently graduated from Lahore University of Management Sciences, majoring in Economics & Politics, and minoring in Psychology.
 
-## How to use?
+The first thing I did after I got my degree, quite literally, was join Teach for Pakistan as a Fellow. There are 40 of us, selected this year, and about 15 others who were selected last year. For 6 weeks, all of us were put through what was most likely one of the most intensive and rigorous teacher training programs in the country.
 
-### Managing content with [Forestry](https://forestry.io)
+Against all odds, I survived. I will talk about the great struggles of moving and settling into a new city, starting your first job, making new friends, loneliness, depression, and crippling self-doubt later. But little did I know, the worst was far from over.
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+I am now placed in an all-girls goverment school in a village that most people have never heard of and never will. It is almost an hour's commute to get to the school and back. For the next two years, I am going to teach English and Social Studies to Grade 3 and 4, and each of my class has approximately 50 students.
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=cecilapp/starter-blog)
+Fun fact: Only 1 out of these 100 students of mine can put together a grammatically correct sentence without any spelling errors.
 
-### Deploy with [Netlify](https://www.netlify.com)
+So how am I going to possibly teach them to not only read and write, but also to understand what they are being taught, and take those skills forward in life?
 
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
+Come with me, as I walk/run/crawl through the next two years, trying to make the most of my time, efforts, and abilities, and make my girls grow into strong, fearless, confident, and independent women.
+Hi! My name is Momina Abid, and I recently graduated from Lahore University of Management Sciences, majoring in Economics & Politics, and minoring in Psychology.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/starter-blog)
+The first thing I did after I got my degree, quite literally, was join Teach for Pakistan as a Fellow. There are 40 of us, selected this year, and about 15 others who were selected last year. For 6 weeks, all of us were put through what was most likely one of the most intensive and rigorous teacher training programs in the country.
+
+Against all odds, I survived. I will talk about the great struggles of moving and settling into a new city, starting your first job, making new friends, loneliness, depression, and crippling self-doubt later. But little did I know, the worst was far from over.
+
+I am now placed in an all-girls goverment school in a village that most people have never heard of and never will. It is almost an hour's commute to get to the school and back. For the next two years, I am going to teach English and Social Studies to Grade 3 and 4, and each of my class has approximately 50 students.
+
+Fun fact: Only 1 out of these 100 students of mine can put together a grammatically correct sentence without any spelling errors.
+
+So how am I going to possibly teach them to not only read and write, but also to understand what they are being taught, and take those skills forward in life?
+
+Come with me, as I walk/run/crawl through the next two years, trying to make the most of my time, efforts, and abilities, and make my girls grow into strong, fearless, confident, and independent women.
+
+
